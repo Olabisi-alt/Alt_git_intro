@@ -25,4 +25,4 @@
 
 # git init - tells git to make this directory/project one that can be managed with the git software
 
-echo "Yet another edit $(date)" >> output.txt
+echo "Yet another edit $(date)" >> output.txt # >> appends to the file, > overwrites the file
