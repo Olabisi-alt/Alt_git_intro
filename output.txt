@@ -1,0 +1,12 @@
+Yet another edit Jeu 21 nov 2024 12:02:23 CET
+Yet another edit Jeu 21 nov 2024 12:03:14 CET
+Yet another edit Jeu 21 nov 2024 12:03:26 CET
+Yet another edit Jeu 21 nov 2024 12:03:33 CET
+Yet another edit Jeu 21 nov 2024 12:03:38 CET
+Yet another edit Jeu 21 nov 2024 12:03:50 CET
+Yet another edit Jeu 21 nov 2024 12:03:59 CET
+
+
+git init
+git add <filename> or <filenames>
+git commit <save to git> #git commit -m "commit for first.sh"
